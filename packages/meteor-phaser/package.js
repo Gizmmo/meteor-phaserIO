@@ -2,7 +2,7 @@ Package.describe({
   name: 'meteor-phaser',
   summary: ' The WebGL/Canvas 2D library packaged for Meteor ',
   version: '0.1.0',
-  // git: 'https://github.com/Gizmmo/meteor-phaser.git'
+  git: 'https://github.com/Gizmmo/meteor-phaser.git'
 });
 
 Package.onUse(function(api) {
